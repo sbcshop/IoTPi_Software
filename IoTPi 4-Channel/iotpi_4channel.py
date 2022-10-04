@@ -4,8 +4,8 @@ import utime,time
 
 uart = UART(1, 115200)             # Default Baud rate of ESP8266
 
-WiFi_SSID='Tech SB_2G'             # Enter Wifi SSID here
-WiFi_password = 'jc643111h@'       # Enter WiFi Password here
+WiFi_SSID='WIFI NAME'             # Enter Wifi SSID here
+WiFi_password = 'PASSWORD'       # Enter WiFi Password here
 Port = '8080'                      # TCP Server Port
 
 status_led = machine.Pin(24, machine.Pin.OUT)#led_1 connected to pico pin 24
