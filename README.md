@@ -20,7 +20,7 @@
 
 * Step.2 - After downloading and extracting the Zip file you will get the following files under the “IoTPi-main” folder
 
-<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/SC2.PNG" />
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(22).png" />
 
 * Step.3 - After that open the folder IoTPi 4-channel if you have our 4-channel board or if you have 6-channel board then open IoTPi 6-channel folder. Under this you get   two python files as shown in below image
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/SC3.PNG" />
