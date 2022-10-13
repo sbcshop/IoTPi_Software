@@ -6,3 +6,5 @@
 
 ## RS-485
 ### RS-485 is an industrial specification that defines the electrical interface and physical layer for point-to-point communication of electrical devices. The RS-485 standard allows for long cabling distances in electrically noisy environments and can support multiple devices on the same bus. It is a serial communication protocols and are ubiquitous device interfaces.
+
+## Reserved Pins Of IoT-Pi 4/6CH Board
