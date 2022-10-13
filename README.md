@@ -61,8 +61,8 @@ As in previous steps we completed the code saving and other important steps to w
 * Step.3 - After installing the app, open it and interfaces as following below
 
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0003.jpg" />
-<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0004.jpg" />
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0005.jpg" />
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0004.jpg" />
 
 
 
