@@ -49,3 +49,21 @@
 Step.10 - Now, both the library and main file are saved in your board and it is ready to control relays of it and so on appliances that you want by providing the command accordingly
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(11).png" />
 
+### Downloading Android Application
+As in previous steps we completed the code saving and other important steps to work with the IoTPi board. Now in this section we will learn how to control it.
+
+* Step.1 - In the IoTPi_main folder you will also get a folder named with “Android Application”
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(20).png" />
+
+* Step.2 - Open this folder and under this you will get a .apk file named with  “IoTPi.apk” download and install this application in your android phone for controlling your IoTPi Board
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(21).png" />
+
+* Step.3 - After installing the app, open it and interfaces as following below
+
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0003.jpg" />
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0004.jpg" />
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0005.jpg" />
+
+
+
+
