@@ -10,4 +10,4 @@
 ## Reserved Pins Of IoT-Pi 4/6CH Board
 
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/PinReserved-IoT4ch.png" />
-<mg src = "https://github.com/sbcshop/IoTPi/blob/main/images/PinReserved_IoT6ch.png" />
+<img src = "https://github.com/sbcshop/IoTPi/blob/main/images/PinReserved_IoT6ch.png" />
