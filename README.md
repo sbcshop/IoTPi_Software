@@ -28,6 +28,6 @@
 * Step.4 - File “home_automation_4ch” is the main file and “IoTPi” is the library file for our IoTPi boards. To open these files you should have Thonny IDE installed in your system, If you don’t have Thonny IDE follow the link below to install it. Click here
 
 * Step.5 - First Open both files in your IDE and connect your IoTPi board to your computer via using micro-usb cable.
-
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(7).png" />
 
 
