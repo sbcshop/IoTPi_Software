@@ -14,13 +14,13 @@
 
 ### Steps To Follow for Working with IoT-Pi Boards
 
-Step.1 - Download the Zip file of IoTPi package and extract it in your computer system, for this click on code—>download Zip (Highlighted with Red)
+* Step.1 - Download the Zip file of IoTPi package and extract it in your computer system, for this click on code—>download Zip (Highlighted with Red)
 
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Iotpi_SC1.PNG" />
 
-Step.2 - After downloading and extracting the Zip file you will get the following files under the “IoTPi-main” folder
+* Step.2 - After downloading and extracting the Zip file you will get the following files under the “IoTPi-main” folder
 
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/SC2.PNG" />
 
-Step.3 - After that open the folder IoTPi 4-channel if you have our 4-channel board or if you have 6-channel board then open IoTPi 6-channel folder. Under this you get two python files as shown in below image
+* Step.3 - After that open the folder IoTPi 4-channel if you have our 4-channel board or if you have 6-channel board then open IoTPi 6-channel folder. Under this you get   two python files as shown in below image
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/SC3.PNG" />
