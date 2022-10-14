@@ -67,6 +67,26 @@ As in previous steps we completed the code saving and other important steps to w
 
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0004.jpg" />
 
+* Step.4 - For connecting this application to your board provide IP address of your WiFi which your using at that time, in my case my it was 192.168.43.18 as shown below
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(28).png" />
 
+* Step.5 - Initially the button setting should be as shown in below image for giving ON/OFF commands. After that you can change it according to your code
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot_20221014.jpg" />
 
+### Communication Using RS485
+The IoTPi  board also has the feature of rs485. You can use this feature by making one of your boards as the sender and another one as receiver. Fer this follow the steps below
 
+* Step.1 - Locate  the RS485 directory inside the IoTPi_main folder and open it, inside this folder you will get a file named with “rs485_test” 
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(23).png" />
+* Step. 2 - Open the “RS485_test” file and you will get two blocks of codes, one is for making a receiver and the other one is for making your board as a sender.
+
+* Step. 3 - Uncomment the sender code and save it in RP2040 of your board and now it is ready for working as a rs485 sender device.
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(26).png" />
+* Step.4 - Now, uncomment the receiver block of code(sender block should be commented this time) and save it  in another board
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(27).png" />
+
+* Step.5 - Now, your sender and receiver board is ready for communicating to each other by using rs485 protocol.
+
+* Step.6 - Connect to RS485 port of  your boards as shown below and Power port should be connected in the right direction to a 5V dc  power supply
+
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG_5938%20-%20Edited%20(1).png" />
