@@ -65,8 +65,6 @@ As in previous steps we completed the code saving and other important steps to w
 
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0005.jpg" />
 
-<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/IMG-20221013-WA0004.jpg" />
-
 * Step.4 - For connecting this application to your board provide IP address of your WiFi which your using at that time, in my case my it was 192.168.43.18 as shown below
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(28).png" />
 
