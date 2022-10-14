@@ -87,6 +87,6 @@ As in previous steps we completed the code saving and other important steps to w
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(28).png" />
 
 * Step.5 - Initially the button setting should be as shown in below image for giving ON/OFF commands. After that you can change it according to your code
-<img src ="" />
+<img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot_20221014.jpg" />
 
 
