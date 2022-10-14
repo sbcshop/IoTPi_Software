@@ -13,10 +13,9 @@ The IoTPi  board also has the feature of rs485. You can use this feature by maki
 
 * Step.1 - Locate  the RS485 directory inside the IoTPi_main folder and open it, inside this folder you will get a file named with “rs485_test” 
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(23).png" />
-* Step. 2 - Open the “RS485_test” file and you will get two blocks of codes, one is for making a receiver and the other one is for making
-  your board as a sender
-
-* Step. 3 - Uncomment the sender code and save it in RP2040 of your board and now it is ready for working as a rs485 sender device.
+* Step. 2 - Open the “RS485_test” file and you will get two blocks of codes, one is for making a receiver and the other one is for makingyour board as a sender
+* 
+* Step. 3 - Uncomment the sender code and save it in RP2040 of your board and now it is ready for working as a rs485 sender device
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(26).png" />
 * Step.4 - Now, uncomment the receiver block of code(sender block should be commented this time) and save it  in another board
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(27).png" />
