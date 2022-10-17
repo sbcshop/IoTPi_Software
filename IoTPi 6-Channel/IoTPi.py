@@ -1,3 +1,7 @@
+'''
+This is the liberary code for IoTPi boards
+Devolop by Sb-components
+'''
 from machine import UART,Pin,I2C,SPI
 import utime,time
 import machine
