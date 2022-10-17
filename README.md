@@ -12,7 +12,7 @@
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/PinReserved-IoT4ch.png" />
 <img src = "https://github.com/sbcshop/IoTPi/blob/main/images/PinReserved_IoT6ch.png" />
 
-### Steps To Follow for Working with IoT-Pi Boards
+## Steps To Follow for Working with IoT-Pi Boards
 
 * Step.1 - Download the Zip file of IoTPi package and extract it in your computer system, for this click on code—>download Zip (Highlighted with Red)
 
@@ -70,7 +70,7 @@ As in previous steps we completed the code saving and other important steps to w
 * Step.5 - Initially the button setting should be as shown in below image for giving ON/OFF commands. After that you can change it according to your code
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot_20221014.jpg" />
 
-### Communication Using RS485
+## Communication Using RS485
 The IoTPi  board also has the feature of rs485. You can use this feature by making one of your boards as the sender and another one as receiver. Fer this follow the steps below
 
 * Step.1 - Locate  the RS485 directory inside the IoTPi_main folder and open it, inside this folder you will get a file named with “rs485_test” 
