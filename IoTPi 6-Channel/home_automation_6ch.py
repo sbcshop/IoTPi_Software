@@ -1,6 +1,6 @@
 '''
 This is the Example code of home automation for conntrolling 6-ch relays by using Android App
-This code is Devolop by Sb-componetns 
+This code is Devolop by Sb-components 
 '''
 
 from IoTPi import Wifi
