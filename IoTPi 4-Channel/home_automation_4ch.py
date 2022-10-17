@@ -1,3 +1,7 @@
+'''
+This is the Example code of home automation for conntrolling 4-ch relays by using Android App
+This code is Devolop by Sb-componetns 
+'''
 from IoTPi import Wifi
 from IoTPi import Relay_4ch,Status_led
 import time
