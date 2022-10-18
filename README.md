@@ -27,7 +27,8 @@
 * Step.3 - After that open the folder IoTPi 4-channel if you have our 4-channel board or if you have 6-channel board then open IoTPi 6-channel folder. Under this you get   two python files as shown in below image
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/SC3.PNG" />
 
-* Step.4 - File “home_automation_4ch” is the main file and “IoTPi” is the library file for our IoTPi boards. To open these files you should have Thonny IDE installed in your system, If you don’t have Thonny IDE follow the link below to install it. Click here
+* Step.4 - File “home_automation_4ch” is the main file and “IoTPi” is the library file for our IoTPi boards. To open these files you should have Thonny IDE installed     in your system, If you don’t have Thonny IDE follow the link below to install it
+* https://thonny.org/
 
 * Step.5 - First Open both files in your IDE and connect your IoTPi board to your computer via using micro-usb cable.
 <img src ="https://github.com/sbcshop/IoTPi/blob/main/images/Screenshot%20(7).png" />
