@@ -1,3 +1,8 @@
+'''
+This is the example code for testing RS485 communication between two boards
+Develop by Sb-components
+'''
+
 from IoTPi import RS485
 
 # Uncomment below block of code(remove '''  ''') to make IoTPi receiver
