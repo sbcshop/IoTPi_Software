@@ -93,7 +93,7 @@ The IoTPi  board also has the feature of rs485. You can use this feature by maki
 
 ## Documentation
 
-* [EncroPi Hardware](https://github.com/sbcshop/EncroPi-Hardware)
+* [IoTPi Hardware](https://github.com/sbcshop/IoTPi-Hardware)
 * [RaspberryPi PICO Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * [RaspberryPi PICO Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
