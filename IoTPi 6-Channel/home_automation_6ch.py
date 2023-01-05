@@ -7,8 +7,8 @@ from IoTPi import Wifi
 from IoTPi import Relay_6ch,Status_led
 import time
 
-WiFi_SSID='Tech SB_2G'             # Enter Wifi SSID here
-WiFi_password = 'jc643111h@'       # Enter WiFi Password here
+WiFi_SSID= ''             # Enter Wifi SSID here
+WiFi_password = ''       # Enter WiFi Password here
 Port = '8080'
 
 iot_pi = Wifi(WiFi_SSID,WiFi_password,Port)
